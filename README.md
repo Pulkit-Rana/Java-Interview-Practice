@@ -5,7 +5,7 @@ So here is the list of **top 25 java programs** that can help you practice and m
 
 They are simple, but yet they give a good indication of the coding skill of prospective candidates. They are usually preferred by many companies because it often requires 10 to 20 minutes to write the solution and discuss them.
 
-In the repo above you will find the following programes:--
+In the repo above you will find the following programes:-
 
 01. Fibonacci series
 02. A prime number
