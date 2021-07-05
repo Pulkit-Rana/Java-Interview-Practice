@@ -31,5 +31,5 @@ In the repo above you will find the following programes:--
 22. Count Pairs with given sum
 23. Finding the length of Array
 24. Finding the Sum of first 100 integers(1-100)
-25. Find all pairs of an integer array whose sum is equal to a given number?
+25. Find all pairs of an integer array whose sum is equal to a given number.
 
