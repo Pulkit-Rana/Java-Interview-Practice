@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/**
+ * A prime number is a natural number greater than 1,which is only divisible by 1 and itself.
+ * First few prime numbers are : 2 3 5 7 11...
+ * To check if a given number is a prime or not we  iterate through all numbers from 2 to sqrt(n) and for every number check if it divides n.
+ * If we find any number that divides, we return false.
+ **/
+
 public class PrimeNumber {
 
   public static void main(String[] args) {

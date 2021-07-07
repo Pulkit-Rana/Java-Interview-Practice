@@ -1,11 +1,11 @@
 import java.util.Scanner;
-/*
-The Fibonacci series is a series of elements where,
-the previous two elements are added to get the next element, starting with 0 and 1.
-Example:--
-Input: N = 10
-Output: 0 1 1 2 3 5 8 13 21 34
- */
+/**
+* The Fibonacci series is a series of elements where,
+* the previous two elements are added to get the next element, starting with 0 and 1.
+* Example:--
+* Input: N = 10
+* Output: 0 1 1 2 3 5 8 13 21 34
+ **/
 
 public class FibonacciSeries {
 
