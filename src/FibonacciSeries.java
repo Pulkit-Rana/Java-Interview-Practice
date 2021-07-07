@@ -19,7 +19,7 @@ public class FibonacciSeries {
       // Print the number
       System.out.print(num1 + " ");
 
-      // swap the value of the number
+      // swap the value of the number using a new integer
       int num3 = num2 + num1;
       num1 = num2;
       num2 = num3;
