@@ -35,7 +35,7 @@ public class FibonacciSeries {
       int num = in.nextInt();
       in.close();
 
-      // call the function Fibonacci 
+      // call the function Fibonacci
        fibonacci(num);
     }
   }

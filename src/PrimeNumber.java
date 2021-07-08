@@ -40,7 +40,7 @@ public class PrimeNumber {
         else if (num % 2 == 0)
             return false;
 
-    // Check if a number is a multiple of any integer between 2 and sqrt{num}
+    // Check if a number is a multiple of any integer between 2 and sqrt{num} 
     int sqrt = (int) Math.sqrt(num) + 1;
         for (int i = 3; i < sqrt; i += 2) {
             if (num % i == 0) {
