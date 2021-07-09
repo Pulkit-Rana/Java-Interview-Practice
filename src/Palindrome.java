@@ -9,7 +9,8 @@ public class Palindrome {
 
   public static void main(String[] args) {
 
-      String real,reverse = "";
+      String real;
+      StringBuilder reverse = new StringBuilder();
 
       Scanner in = new Scanner(System.in);
       System.out.println("Enter a string/number to check if it is a palindrome");
@@ -20,8 +21,8 @@ public class Palindrome {
 
       //Check if the last element of the string is equal to the first element
       for ( int i = length - 1; i >= 0; i-- )
-          reverse = reverse + real.charAt(i);
-      if (real.equals(reverse))
+          reverse.append(real.charAt(i));
+      if (real.equals(reverse.toString()))
           System.out.println("Entered string/number is a palindrome.");
       else
           System.out.println("Entered string/number isn't a palindrome.");
